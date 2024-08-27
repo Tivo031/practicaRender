@@ -1,7 +1,7 @@
 {
-  "name": "parcial",
+  "name": "ApiUMG",
   "version": "1.0.0",
-  "description": "Examen Parcial",
+  "description": "Api UMG para consumir",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
